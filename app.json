@@ -2,8 +2,9 @@
   "name":"CJ-MD",
   "description":"Whatsapp bot developed by CJ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
-  "repository":"https://github.com/djalega8000/Zokou-2.0",
+  "logo":"
+	",
+  "repository":"https://github.com/CJMZEE/CJ-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{

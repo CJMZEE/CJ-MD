@@ -23,15 +23,13 @@
       "description":"Your contact status will be downloaded automatically and sent to you(type yes to activate or no to deactivate ; don't write in capital letter)",
       "value":"no",
       "required":false
-    }
-    ,
+    },
      "PM_PERMIT" :
      {
       "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
       "value":"no",
       "required":false
-    }
-    ,
+    },
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
@@ -39,8 +37,8 @@
       "required":false
 
     } ,
-     "BOT_MENU_LINKS" : {
-    
+     "BOT_MENU_LINKS" :
+    {
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
       "value":"  https://telegra.ph/file/73895e30636d7b47fa42b.jpg",
       "required":false
@@ -51,8 +49,7 @@
       "description":"type yes to put your bot on public mode or no to put it on private mode",
       "value":"no",
       "required":false
-    }
-	,
+    },
     "HEROKU_APY_KEY": {
     "description": "insert your heroku api-key ",
      "required" :true
@@ -60,18 +57,15 @@
   "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME ",
      "required" :true
-    }  
-	  ,
+    },
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
       "value":"",
       "required":true
-      
     },
     "OWNER_NAME":
     {
-    
     "desc": "Your Name",
     "required": false,
     "value": "CJ"
@@ -104,14 +98,12 @@
     "description": "if you want to enable anti delete message put yes else put no",
     "value": "no",
     "required": false
-  }
   },
 
   "formation": {
 		"worker": {
 			"quantity": 1,
 			"size": "basic"
-		}
 	},
 
   "addons":[
@@ -119,4 +111,4 @@
       "plan":"heroku-postgresql"
     }
   ]
-}
+  }

@@ -74,12 +74,12 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "CJ++"
+    "value": "CJ"
   },
     "OWNER_NUMBER":
   {
     
-    "desc": "Your number , dont put '+' and put your country code(example '254')",
+    "desc": "Your number , don't put '+' and put your country code(example '254')",
     "required":false,
     "value": "254757977429"
   },
@@ -101,7 +101,7 @@
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
-    "description": "if you want to enable anti delete message put yes else put no",
+    "description": "if you want to enable anti delete message put yes or else put no",
     "value": "no",
     "required": false
   }

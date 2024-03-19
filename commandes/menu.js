@@ -33,16 +33,15 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭────✧${s.BOT}✧────◆
-│   *Préfix* : ${s.PREFIXE}
+│   *Préfix* : ${s.PREFIX}
 │   *Owner* : ${s.OWNER_NAME}
 │   *Mode* : ${mode}
-│   *Commands* : ${cm.length}
+│   *Cmds* : ${cm.length}
 │   *Date* : ${date}
 │   *Hour* : ${temps}
-│   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│   *Plateforme* : ${os.platform()}
-│   *Développer* : Djalega++ 
-│  & M๏𝓷keℽ D Lบffy
+│   *Memory* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│   *Platform* : ${os.platform()}
+│   *Développer* : CJ
 ╰─────✧WA-BOT✧─────◆ \n\n`;
     
 let menuMsg = `
@@ -67,7 +66,7 @@ let menuMsg = `
 *»»————— ★ —————««*
 "To use a command, insert ${prefixe} followed by the command_name."
  
-    Powered by Zokou-MD
+    Powered by CJ-MD
                                                 
 *»»————— ★ —————««*
 `;

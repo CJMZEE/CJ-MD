@@ -15,13 +15,13 @@
     },
     "AUTO_READ_STATUS":
     {
-      "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
+      "description":"Your contact status will be read automatically(Options:yes or no)",
       "value":"yes",
       "required":false
     }, "AUTO_DOWNLOAD_STATUS":
     {
-      "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"yes",
+      "description":"Your contact status will be download automatically and send to you(Options:yes or no; don't write in capital letter)",
+      "value":"no",
       "required":false
     }
     ,
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Zokou-MD",
+      "value":"CJ-MD",
       "required":false
 
     } ,
@@ -48,8 +48,8 @@
      },
     "PUBLIC_MODE":
     {
-      "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "description":"Options:yes or no",
+      "value":"no",
       "required":false
     }
 	,
@@ -74,9 +74,9 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Djalega++"
+    "value": "CJ++"
   },
-    "NUMERO_OWNER":
+    "OWNER_NUMBER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",

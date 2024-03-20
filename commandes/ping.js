@@ -1,11 +1,11 @@
 const {
-       inrl,
+       cj,
        lang,
        mode
 } = require('../lib');
 
 
-inrl({
+cj({
     pattern: 'ping ?(.*)',
     desc: lang.PING_DESC,
     react: "💯",

@@ -1,11 +1,11 @@
 const {
-       cj,
+       Zokou,
        lang,
        mode
 } = require('../lib');
 
 
-cj({
+Zokou({
     pattern: 'ping ?(.*)',
     desc: lang.PING_DESC,
     react: "💯",

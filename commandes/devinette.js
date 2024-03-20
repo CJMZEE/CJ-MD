@@ -117,7 +117,7 @@ zokou({ nomCom: "riddle", categorie: "Games" }, async (dest, zk, commandeOptions
   await zk.sendMessage(
     dest,
     {
-      text: `The answer was : ${devinette.reponse}`,
+      text: `CJ-MD says the answer is : ${devinette.reponse}`,
     },
     { quoted: ms }
   );

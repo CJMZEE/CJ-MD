@@ -36,10 +36,10 @@ CJ-MD is a multi-device bot designed to enhance your WhatsApp conversations with
 
 3. Obtain a bot session: 
 
-   [Session-1](https://zokouscan.onrender.com) ; <br>
+   [Session-1](https://zokouscan.onrender.com/getsession) ; <br>
 
 
-4. Deploy
+5. Deploy
    - **Heroku Deployment:**
      1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
      2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/CJMZEE/CJ-MD) to deploy the bot on **Heroku**.
@@ -50,7 +50,7 @@ Contributions to CJ-MD are welcome! If you have ideas for new features, improvem
 
 Enjoy the diverse features of the WhatsApp Bot CJ-MD to enhance your conversations and make your WhatsApp experience more interesting!
 
-## Developer:
+## Moderator:
 
 - [**#CJ#**]
 

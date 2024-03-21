@@ -1,5 +1,5 @@
 const {
-    inrl,
+    zokou,
     mode,
     extractUrlsFromString,
     config,
@@ -7,9 +7,9 @@ const {
     getBuffer,
 } = require('../lib/');
 
-inrl({
+zokou({
     pattern: 'fb ? (.*)',
-    fromMe: mode,
+    fromMe: "mode',
     desc: 'download medias from Facebook',
     react: "⬇️",
     type: "downloader"

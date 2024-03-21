@@ -211,4 +211,42 @@ Send the number off right answers`
             console.log(error);
         }
     }
+
+
+zokou(
+  {
+    
+    nomCom: "wcg",
+    categorie: "Games",
+    reaction: "🤫"
+  
+  },
+  async (message, match) => {
+    if (match == 'start') {
+      return await wcg.start(message.jid, message.participant)
+    }
+    if (match == 'end') {
+      return await wcg.end(message.jid, message.participant)
+    }
+    wcg.start_game(message.jid, message.participant, 'chain', match)
+  }
+)
+
+    zokou(
+  {
+    pattern: 'wrg ?(.*)',
+    fromMe: true,
+    desc: 'random word game\nwrg start to force start game',
+    type: 'game',
+  },
+  async (message, match) => {
+    if (match == 'start') {
+      return await wcg.start(message.jid, message.participant)
+    }
+    if (match == 'end') {
+      return await wcg.end(message.jid, message.participant)
+    }
+    wcg.start_game(message.jid, message.participant, 'random', match)
+  }  
+    }
 );

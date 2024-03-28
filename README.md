@@ -38,9 +38,7 @@ CJ-MD is a multi-device bot designed to enhance your WhatsApp conversations with
 
 3. Obtain a bot session: 
 
-   [Session-1](
-< a
-href='https://zokouscan.onrender.com/getsession' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+ <a href='https://zokouscan.onrender.com/getsession' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 5. Deploy
    - **Heroku Deployment:**

@@ -18,21 +18,21 @@
 # CJ-MD 
 
 
-<b>CJ-MD </b>is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, CJ-MD is here to assist you.
+<b>CJ-MD </b>is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management,<b> CJ-MD </b><img>is here to assist you.</img>
 
 ## Key Features
 
-- **File Download:** CJ-MD can download audio and video files from links you send, making it easy to share them with your contacts.
+- **File Download:** <b>CJ-MD</b> can download audio and video files from links you send, making it easy to share them with your contacts.
 
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to CJ-MD.
+- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to <b>CJ-MD.</b>
 
-- **Group Management:** CJ-MD offers group management features, such as adding or removing members, configuring rules, and other settings.
+- **Group Management:** <b>CJ-MD </b>offers group management features, such as adding or removing members, configuring rules, and other settings.
 
 - **Text to Img:** The best logos have been selected for your convenience.
 
 ## Fun Features
 
-- **Jokes and Riddles:** CJ-MD comes with a collection of jokes and riddles to liven up your conversations.
+- **Jokes and Riddles:** <b>CJ-MD </b>comes with a collection of jokes and riddles to liven up your conversations.
 
 - **Inspiring Quotes:** Receive inspiring quotes to motivate you daily.
 
@@ -50,9 +50,9 @@
 
 ## Contributions
 
-Contributions to CJ-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to <b> CJ-MD</b> are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-Enjoy the diverse features of the WhatsApp Bot CJ-MD to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the WhatsApp Bot<b> CJ-MD</b> to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Moderator:
 

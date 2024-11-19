@@ -14,7 +14,7 @@
 # CJ-MD 
 
 
-CJ-MD is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, CJ-MD is here to assist you.
+<b>CJ-MD </b>is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, CJ-MD is here to assist you.
 
 ## Key Features
 

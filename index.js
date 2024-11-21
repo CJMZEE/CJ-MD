@@ -850,20 +850,9 @@ ${metadata.desc}`;
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `╔════◇
-║ 『CJ-𝐌𝐃』
-║    Prefix : [ ${prefixe} ]
-║    Mode :${md}
-║    Total Commandes : ${evt.cm.length}︎
-╚══════════════════╝
-
-╔═════◇
-
-
- if there are somes error you can tell us :) 
- thanks you for choosing CJ-MD 
-Repo:github.com/CJMZEE/CJ-MD
-╚══════════════════╝`;
+                let cmsg = `
+    𝐂𝐉 𝐌𝐃 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃`;
+//𝐇𝐢𝐢 𝐧𝐭𝐚𝐰𝐞𝐤𝐚 𝐢𝐧𝐠𝐢𝐧𝐞 𝐬𝐦𝐚𝐫𝐭 𝐦𝐳𝐞𝐞
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }

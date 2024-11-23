@@ -26,7 +26,7 @@
 
 - **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to <b>CJ-MD.</b>
 
-- **Group Management:** <button>CJ-MD</button> offers group management features, such as adding or removing members, configuring rules, and other settings.
+- **Group Management:** <b>CJ-MD</>  offers group management features, such as adding or removing members, configuring rules, and other settings.
 
 - **Text to Img:** The best logos have been selected for your convenience.
 

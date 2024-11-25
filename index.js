@@ -759,7 +759,7 @@ ${metadata.desc}`;
                   zk.sendMessage(crons[i].group_id, { image : { url : './media/chrono.webp'} , caption: "Hello, it's time to close the group; sayonara." });
 
                 }, {
-                    timezone: "Africa/Kenya"
+                    timezone: "Africa/Nairobi"
                   });
               }
         
@@ -776,7 +776,7 @@ ${metadata.desc}`;
 
                  
                 },{
-                    timezone: "Africa/Kenya"
+                    timezone: "Africa/Nairobi"
                   });
               }
         
@@ -809,16 +809,16 @@ ${metadata.desc}`;
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ Connexion en cours...");
+                console.log("ℹ️ CJ-MD is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ connexion reussie! ☺️");
+                console.log("✅ connection successful! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("le bot est en ligne 🕸\n\n");
+                console.log("CJ-MD is online 🕸\n\n");
                 //chargement des commandes 
                 console.log("chargement des commandes ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
@@ -845,7 +845,7 @@ ${metadata.desc}`;
                 else {
                     md = "undefined";
                 }
-                console.log("chargement des commandes terminé ✅");
+                console.log("commands installation successful ✅");
 
                 await activateCrons();
                 

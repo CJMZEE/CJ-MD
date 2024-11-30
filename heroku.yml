@@ -1,7 +1,19 @@
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 build:
   docker:
       worker: Dockerfile
 run:
-   worker:   npm run body
+   worker:   npm run zokou
